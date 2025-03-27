@@ -1,0 +1,10 @@
+client_testing.py
+server_testing.py
+testing.py
+.venv
+__pycache__/
+*.pyc
+*.pyo
+.idea
+test_mp4
+test_pdf
